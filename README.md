@@ -105,6 +105,8 @@ remixd -s ./shared_project -u https://remix.ethereum.org
 
 In remix IDE, go to Files > Access File System and connect.
 
+If you want to sync with github, consult these tutorials https://www.youtube.com/watch?v=FBOnbjdIPZo https://www.youtube.com/watch?v=9zZ5mk74n3E
+
 The key now is to learn the basics of Solidity programming language.
 
 
